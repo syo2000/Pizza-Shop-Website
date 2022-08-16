@@ -1,33 +1,37 @@
 # Pizza Shop Website ( MVC PHP )
 
-### Database link: https://docs.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver15&tabs=ssms
 
-#### I chose 'AdventureWorksDW2019.bak' data for analysis & visualization<br>
-#### Includes tables: <br>
-DimDate<br>
-DimGeography<br>
-DimCustomer<br>
-DimProduct<br>
-DimProductSubcategory<br>
-DimProductCategory<br>
-FactInternetSales<br>
 # Admin
 ## Trang đăng nhập admin
 <p align="center">
-  <img src="[https://github.com/syo2000/AdventureWorks2019_Analysis_and_Visualization_with_PowerBI/blob/main/data%20model.PNG](https://github.com/syo2000/Pizza-Shop-Website/blob/main/img/img3.PNG?raw=true)"  alt="accessibility text">
+  <img src="https://github.com/syo2000/Pizza-Shop-Website/blob/main/img/img3.PNG?raw=true"  alt="accessibility text">
 </p>
 
-## Sales Overview dashboard
+## Trang chủ admin
 <p align="center">
-  <img src="https://github.com/syo2000/AdventureWorks2019_Analysis_and_Visualization_with_PowerBI/blob/main/sales%20overview.jpg"  alt="accessibility text">
+  <img src="https://github.com/syo2000/Pizza-Shop-Website/blob/main/img/img1.PNG?raw=true"  alt="accessibility text">
 </p>
 
-## Customers Overview dashboard
+## Trang danh sách đơn hàng - admin
 <p align="center">
-  <img src="https://github.com/syo2000/AdventureWorks2019_Analysis_and_Visualization_with_PowerBI/blob/main/customers%20overview.jpg"  title="hover text">
+  <img src="https://github.com/syo2000/Pizza-Shop-Website/blob/main/img/img2.PNG?raw=true"  title="hover text">
 </p>
 
-## Products Overview dashboard
+# Consumer
+## Trang chủ 
 <p align="center">
-  <img src="https://github.com/syo2000/AdventureWorks2019_Analysis_and_Visualization_with_PowerBI/blob/main/product%20overview.jpg"  alt="accessibility text">
+  <img src="https://github.com/syo2000/Pizza-Shop-Website/blob/main/img/img4.PNG?raw=true"  alt="accessibility text">
+</p>
+<p align="center">
+  <img src="https://github.com/syo2000/Pizza-Shop-Website/blob/main/img/img5.PNG?raw=true"  alt="accessibility text">
+</p>
+
+## Trang đặt hàng pizza 
+<p align="center">
+  <img src="https://github.com/syo2000/Pizza-Shop-Website/blob/main/img/img6.PNG?raw=true"  alt="accessibility text">
+</p>
+
+## Trang tìm hiếm đơn và chỉnh sữa thông tin 
+<p align="center">
+  <img src="https://github.com/syo2000/Pizza-Shop-Website/blob/main/img/img7.PNG?raw=true"  alt="accessibility text">
 </p>
